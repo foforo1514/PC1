@@ -1,0 +1,14 @@
+repositorio:
+ es un archivo digital centralizado donde se organizan, almacenan, preservan y difunden documentos o información de forma estructurada y accesible
+commit:
+una confirmación representa una instantánea guardada del repositorio completo del proyecto en un momento específico
+rama(branch):
+es una Línea de desarrollo independiente dentro de un proyecto de software, especialmente en sistemas de control de versiones como Git
+merge:
+es el proceso de combinar los cambios de una línea de desarrollo independiente (una rama) en otra, integrando sus historiales en una sola rama
+remote:
+es una referencia a otro repositorio, generalmente ubicado en un servidor remoto u otro equipo, que sirve como punto central para la colaboración y el intercambio de código entre los miembros del equipo
+push:
+ se refiere a subir cambios confirmados desde el repositorio local a un repositorio remoto
+pull:
+comando en Git se usa para obtener y descargar contenido de un repositorio remoto y luego actualizar inmediatamente el repositorio local para que coincida con ese contenido
